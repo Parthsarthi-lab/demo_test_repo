@@ -1,2 +1,8 @@
-# demo_test_repo
-This is for demo
+# First demo project
+
+- First we created .gitignore, LICENSE, README.md using Github
+- For commiting and pushing changes:
+    - git add .
+    - git status
+    - git commit -m "your commit message goes here"
+    - git push origin main
